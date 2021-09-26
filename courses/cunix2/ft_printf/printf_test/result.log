@@ -1,0 +1,4 @@
+- [OUTPUT] ft_printf("{% 03d}", 0)
+   expected: "{ 00}"
+   actual:   "{ 000}"
+
